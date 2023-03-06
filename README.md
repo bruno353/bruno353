@@ -22,6 +22,6 @@
 - [CTFs Audit](ity-template/tree/main/CTFs/ethernautDAO)<br/>
 - [Insurance Protocol](https://github.com/orgs/Once-DeFi-Insurance/repositories)<br/>
 - [GameFi](https://github.com/bruno353/EthBuildQuest_FadingHope)<br/>
-- [DeFi](https://github.com/bruno353/EthBuildQuest_FadingHope)<br/>
+- [DeFi](https://github.com/Scalable-DeFi/contracts)<br/>
 
 
