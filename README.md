@@ -24,6 +24,7 @@
 - [Insurance Protocol](https://github.com/orgs/Once-DeFi-Insurance/repositories)<br/>
 - [GameFi](https://github.com/bruno353/EthBuildQuest_FadingHope)<br/>
 - [Chailink Rand](https://github.com/bruno353/solidity-template/blob/main/ERC721/NFTMinterRandChailink.sol)<br/>
+- [Vesting](https://github.com/bruno353/solidity-template/blob/main/ERC20/VestingToken.sol)<br/>
 - [DeFi](https://github.com/Scalable-DeFi/contracts)<br/>
 
 
