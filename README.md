@@ -1,4 +1,4 @@
-## Blockchain and backend developer
+## Fullstack and blockchain developer
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-laureano-dos-santos-97a782217/)
 
