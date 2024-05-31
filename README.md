@@ -28,5 +28,6 @@
 - [Chailink Rand](https://github.com/bruno353/solidity-template/blob/main/ERC721/NFTMinterRandChailink.sol)<br/>
 - [Vesting](https://github.com/bruno353/solidity-template/blob/main/ERC20/VestingToken.sol)<br/>
 - [DeFi](https://github.com/Scalable-DeFi/contracts)<br/>
+- [LLM RAG backend](https://github.com/bruno353/voice-call-ai)<br/>
 
 
