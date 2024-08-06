@@ -19,7 +19,8 @@
 
 </div><br/>
 
-### Templates:
+### Projects & Templates:
+- [Multi-chain aggregational protocol](https://github.com/Accelar-labs)<br/>
 - [DAO](https://github.com/bruno353/solidity-template/tree/main/DAO)<br/>
 - [Upgradeable smart-contracts](https://github.com/bruno353/solidity-template/tree/main/UUPS)<br/>
 - [CTFs Audit](https://github.com/bruno353/solidity-template/tree/main/CTFs/ethernautDAO)<br/>
