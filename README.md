@@ -21,6 +21,7 @@
 
 ### Projects & Templates:
 - [Agnostic LLM server](https://github.com/bruno353/agnostic-llm-api)<br/>
+- [TEE and attestation resources for AI and backend inference - CPU <> GPU](https://github.com/Dooor-AI)<br/>
 - [Multi-chain aggregational protocol](https://github.com/Accelar-labs)<br/>
 - [DAO](https://github.com/bruno353/solidity-template/tree/main/DAO)<br/>
 - [Upgradeable smart-contracts](https://github.com/bruno353/solidity-template/tree/main/UUPS)<br/>
